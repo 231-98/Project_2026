@@ -12,7 +12,7 @@ int main(void){
     printf("LONG_MAX : %ld \t", LONG_MAX); // long 최대값
     printf("LONG_MIN : %ld\n", LONG_MIN);// long 최소값
 
-    // printf("%d", 2147483648); 
+    // printf("%d", 2147483648); 에러
     printf(END_HELLO);
     return 0;
 }
