@@ -6,4 +6,7 @@
 - WSL 설치
 - vscode, git 설치
 - OS 종류
+- hello.c
+- literal.c
+- limit.c
 ---
