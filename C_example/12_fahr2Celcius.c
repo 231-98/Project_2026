@@ -9,6 +9,6 @@ int main(){
     // fahr = 1.8 * (double)celsius + 32.0;
     celsius = ((double)fahr - 32.0) / 1.8;
     printf("F(fahr) 온도 : %.2f\n", fahr);
-    printf("C(celsius) 온도 : %2f\n", celsius);
+    printf("C(celsius) 온도 : %.2f\n", (double)celsius);
     return 0;
 }
